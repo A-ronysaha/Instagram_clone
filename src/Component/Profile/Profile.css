@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Edu+NSW+ACT+Foundation:wght@500&family=Edu+QLD+Beginner:wght@400;500&family=Grand+Hotel&family=Lato:ital,wght@1,300&family=Pacifico&family=Poppins:ital,wght@1,200;1,300&family=Raleway&family=Rubik:wght@300&display=swap');
+
+.profile-name {
+    margin-bottom: 20px;
+    font-family: 'Edu QLD Beginner', cursive;
+}
+
+.gallery{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.item {
+    width: 30%;
+    margin: 5px 1px 2px 3px
+}

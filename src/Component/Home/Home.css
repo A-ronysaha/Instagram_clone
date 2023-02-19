@@ -1,0 +1,19 @@
+
+.home-card {
+    max-width: 400px;
+    height: max-content;
+    margin: 30px auto;
+}
+
+.card-img {
+    max-width: 388px;
+}
+.picture {
+    width: 100%;
+    margin: 5px;
+}
+
+.fas {
+    padding: 10px;
+    width: 50px;
+}
