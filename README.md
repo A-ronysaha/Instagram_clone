@@ -21,12 +21,6 @@ Clone the project
   git clone https://github.com/A-ronysaha/Instagram_clone
 ```
 
-Go to the project directory
-
-```bash
-  cd John-brown-asset-management-backend
-```
-
 Install dependencies
 
 ```bash
